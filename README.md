@@ -1,5 +1,5 @@
 ## Implementation of the Precato Junior Back-end Developer Challenge
-####To run this application, we will need:
+#### To run this application, we will need:
 Node.js and Docker
 
 ## Installation
@@ -19,8 +19,7 @@ To run the server, use the following command:
 $ docker compose up
 ```
 ## API Documentation
-
-####The API documentation is available using Swagger UI. To access it, use the following URL:
+#### The API documentation is available using Swagger UI. To access it, use the following URL:
 
 ```sh
 - http://localhost:3000/docs
